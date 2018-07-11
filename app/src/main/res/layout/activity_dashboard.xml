@@ -13,7 +13,7 @@
         android:layout_height="@dimen/app_bar_height"
         android:fitsSystemWindows="true"
         android:theme="@style/AppTheme.AppBarOverlay"
-        android:background="@drawable/bd">
+        android:background="@drawable/primary_head_bg">
 
         <android.support.design.widget.CollapsingToolbarLayout
             android:id="@+id/toolbar_layout"
@@ -43,6 +43,7 @@
         android:layout_margin="@dimen/fab_margin"
         app:layout_anchor="@+id/app_bar"
         app:layout_anchorGravity="right|bottom"
-        app:srcCompat="@drawable/ic_terminal_sign" />
+        app:srcCompat="@drawable/ic_terminal_sign"
+        tools:ignore="VectorDrawableCompat" />
 
 </android.support.design.widget.CoordinatorLayout>
