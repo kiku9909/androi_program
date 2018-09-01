@@ -11,14 +11,15 @@
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
         android:fitsSystemWindows="true"
-        android:theme="@style/AppTheme.AppBarOverlay">
+        android:theme="@android:style/ThemeOverlay"
+        tools:targetApi="lollipop">
 
         <android.support.v7.widget.Toolbar
             android:id="@+id/p1toolbar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
             app:layout_collapseMode="pin"
-            app:popupTheme="@style/AppTheme.PopupOverlay" />
+            app:popupTheme="@android:style/ThemeOverlay" />
 
     </android.support.design.widget.AppBarLayout>
 
@@ -51,7 +52,7 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
-        android:text="Hello, welcome to Android Lab"
+        android:text="@string/pro1_welcome_text"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

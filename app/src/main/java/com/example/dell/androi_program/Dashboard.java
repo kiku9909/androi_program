@@ -12,6 +12,7 @@ import android.view.View;
 public class Dashboard extends AppCompatActivity {
 
     private CardView pro1;
+    private CardView pro2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,11 +31,17 @@ public class Dashboard extends AppCompatActivity {
         });
 
         pro1 = (CardView) findViewById(R.id.p1);
-
+        pro2 = (CardView) findViewById(R.id.p2);
         pro1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 startActivity(new Intent(Dashboard.this, pro_1.class));
+            }
+        });
+        pro2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(Dashboard.this,Pro2.class));
             }
         });
     }
