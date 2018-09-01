@@ -3,23 +3,23 @@
 ## what will you find here.
 # different kind of basic android program for getting started with android.
 
--PROGRAM-1 
+- PROGRAM-1 <br> 
 Develop an android app which displays “Hello, welcome to Android Lab” Toast message
-when user click on button.
--PROGRAM-2
-Develop an android app which displays a form to get following information from user.
-• Username
-• Password
-• Email Address
-• Phone Number
-• Country
-• State
-• Gender
-• Interests
-• Birth Date
-• Birth Time
+when user click on button. <br>
+- PROGRAM-2<br>
+Develop an android app which displays a form to get following information from user.<br>
+- Username
+- Password
+- Email Address
+- Phone Number
+- Country
+- State
+- Gender
+- Interests
+- Birth Date
+- Birth Time<br>
 Form should be followed by a Button with label “Submit”. When user clicks the button, a
-message should be displayed to user describing the information entered. 
+message should be displayed to user describing the information entered. <br>
 
 # Screenshots
 <img src="Screenshots/Screenshot_1535806138.png" height="500px">
