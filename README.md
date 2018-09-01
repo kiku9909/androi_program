@@ -1,7 +1,7 @@
-#This are the Android progrmas which are developed by me [sourabh karmakar] during my android lab setion's :p :D if you find it interesting leave a <3 
+# This are the Android progrmas which are developed by me [sourabh karmakar] during my android lab setion's :p :D if you find it interesting leave a <3 
 
-##what will you find here.
-#different kind of basic android program for getting started with android.
+## what will you find here.
+# different kind of basic android program for getting started with android.
 
 -PROGRAM-1 
 Develop an android app which displays “Hello, welcome to Android Lab” Toast message
@@ -21,6 +21,6 @@ Develop an android app which displays a form to get following information from u
 Form should be followed by a Button with label “Submit”. When user clicks the button, a
 message should be displayed to user describing the information entered. 
 
-#Screenshots
-![](Screenshots/Screenshot_1535806029.png)
-![](Screenshots/Screenshot_1535806138.png)
+# Screenshots
+<img src="Screenshots/Screenshot_1535806138.png" height="500px">
+<img src="Screenshots/Screenshot_1535806029.png" height="500px">
