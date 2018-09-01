@@ -1,4 +1,11 @@
 <resources>
+    <string name="spinner_title">Country</string>
+    <string-array name="spinner_item">
+        <item>india</item>
+        <item>UK</item>
+        <item>Australia</item>
+        <item>Srilanka</item>
+    </string-array>
     <string name="app_name">androi_program</string>
     <string name="title_activity_dashboard">Dashboard</string>
     <string name="action_settings">Settings</string>

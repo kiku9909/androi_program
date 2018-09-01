@@ -4,4 +4,5 @@
     <dimen name="text_margin">16dp</dimen>
     <dimen name="space_btw_card">20dp</dimen>
     <dimen name="card_radius">5dp</dimen>
+    <dimen name="LR_margin">20dp</dimen>
 </resources>
