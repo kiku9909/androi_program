@@ -8,16 +8,16 @@ Develop an android app which displays “Hello, welcome to Android Lab” Toast 
 when user click on button. <br>
 - PROGRAM-2<br>
 Develop an android app which displays a form to get following information from user.<br>
-- Username
-- Password
-- Email Address
-- Phone Number
-- Country
-- State
-- Gender
-- Interests
-- Birth Date
-- Birth Time<br>
+Username<br>
+Password<br>
+Email Address<br>
+Phone Number<br>
+Country<br>
+State<br>
+Gender<br>
+Interests<br>
+Birth Date<br>
+Birth Time<br>
 Form should be followed by a Button with label “Submit”. When user clicks the button, a
 message should be displayed to user describing the information entered. <br>
 
