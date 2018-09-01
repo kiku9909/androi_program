@@ -1,1 +1,1 @@
-This Android progrmas which developed during my android lab setion's
+This is Android progrmas which developed during my android lab setion's
