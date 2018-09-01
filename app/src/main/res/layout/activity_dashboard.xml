@@ -46,6 +46,7 @@
         app:layout_anchor="@+id/app_bar"
         app:layout_anchorGravity="right|bottom"
         app:srcCompat="@drawable/ic_terminal_sign"
-        tools:ignore="VectorDrawableCompat" />
+        tools:ignore="VectorDrawableCompat"
+        />
 
 </android.support.design.widget.CoordinatorLayout>
