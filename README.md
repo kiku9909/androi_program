@@ -5,7 +5,7 @@
 
 - PROGRAM-1 <br> 
 Develop an android app which displays “Hello, welcome to Android Lab” Toast message
-when user click on button. <br>
+when user click on button. <br><br>
 - PROGRAM-2<br>
 Develop an android app which displays a form to get following information from user.<br>
 Username<br>
@@ -19,7 +19,7 @@ Interests<br>
 Birth Date<br>
 Birth Time<br>
 Form should be followed by a Button with label “Submit”. When user clicks the button, a
-message should be displayed to user describing the information entered. <br>
+message should be displayed to user describing the information entered. <br><br>
 
 # Screenshots
 <img src="Screenshots/Screenshot_1535806138.png" height="500px">
