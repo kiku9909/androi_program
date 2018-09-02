@@ -144,11 +144,29 @@
                 <ImageView
                     android:layout_width="30dp"
                     android:layout_height="30dp"
+                    android:src="@drawable/ic_if_earth_globe_2785947" />
+                <Spinner
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:entries="@array/countries_array"
+                    android:prompt="@string/spinner_title" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_margin="10dp"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
                     android:src="@drawable/ic_location_city" />
                 <Spinner
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:entries="@array/spinner_item"
+                    android:entries="@array/india_states"
                     android:prompt="@string/spinner_title" />
 
             </LinearLayout>
