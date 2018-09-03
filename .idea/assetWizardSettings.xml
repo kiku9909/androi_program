@@ -18,7 +18,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="jar:file:/C:/Program%20Files/Android/Android%20Studio/plugins/android/lib/android.jar!/images/material_design_icons/social/ic_location_city_black_24dp.xml" />
+                                      <entry key="url" value="jar:file:/C:/Program%20Files/Android/Android%20Studio/plugins/android/lib/android.jar!/images/material_design_icons/device/ic_access_time_black_24dp.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -28,10 +28,9 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="assetSourceType" value="FILE" />
                             <entry key="color" value="ffffff" />
-                            <entry key="outputName" value="ic_if_earth_globe_2785947" />
-                            <entry key="sourceFile" value="C:\Users\DELL\Downloads\if_earth-globe_2785947.svg" />
+                            <entry key="outputName" value="ic_time" />
+                            <entry key="sourceFile" value="C:\Users\DELL\Downloads\summary.svg" />
                           </map>
                         </option>
                       </PersistentState>
