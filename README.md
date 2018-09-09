@@ -26,9 +26,19 @@ message should be displayed to user describing the information entered. <br><br>
 <img scr="assets/svg/screenshot.svg" height="50px">
 
 # Screenshots
-<img src="assets/Screenshots/dashboard.png" height="500px">
-<img src="assets/Screenshots/pro1.png" height="450px">
-<img src="assets/Screenshots/pro2.png" height="450px">
+<table>
+	<tr>
+		<td>
+			<img src="assets/Screenshots/dashboard.png" height="500px">	
+		</td>
+		<td>
+			<img src="assets/Screenshots/pro1.png" height="450px">			
+		</td>
+		<td>
+			<img src="assets/Screenshots/pro2.png" height="450px">			
+		</td>
+	</tr>
+</table>
 
 # GIFs
 <img src="assets/gifs/pro1.gif" height="450px">
