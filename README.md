@@ -1,6 +1,6 @@
 # This are the Android program's which are developed by me [sourabh karmakar] during my android lab sestion's, if you find it interesting leave a <3
 
-<img src="gifs/pikachu-loader.gif">
+<img src="assets/gifs/pikachu-loader.gif">
 
 ## what will you find here.
 ### different kind of basic android program for getting started with android.
