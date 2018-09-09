@@ -24,6 +24,7 @@ Form should be followed by a Button with label “Submit”. When user clicks th
 message should be displayed to user describing the information entered. <br><br>
 
 <img scr="assets/svg/screenshot.svg" height="50px">
+
 # Screenshots
 <img src="assets/Screenshots/Screenshot_1535806138.png" height="500px">
 
