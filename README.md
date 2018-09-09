@@ -29,6 +29,6 @@ message should be displayed to user describing the information entered. <br><br>
 # Gifs
 <img src="gifs/pro1.gif" height="450px">
 
-<img src="https://media.giphy.com/media/l3q2FnW3yZRJVZH2g/giphy.gif">
+<img src="https://media.giphy.com/media/l3q2FnW3yZRJVZH2g/giphy.gif" height="500px">
 
 
