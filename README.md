@@ -34,5 +34,5 @@ message should be displayed to user describing the information entered. <br><br>
 <img src="https://media.giphy.com/media/l3q2FnW3yZRJVZH2g/giphy.gif" height="500px">
 
 
-# This Thank you gif you will find in the link below and also get other's
+This Thank you gif you will find in the link below and also get other's
 <a href="https://gph.is/2lDKqsX">Thank you - GIPHY</a>
