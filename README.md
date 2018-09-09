@@ -27,8 +27,8 @@ message should be displayed to user describing the information entered. <br><br>
 
 # Screenshots
 <img src="assets/Screenshots/dashboard.png" height="500px">
-<img src="assets/Screenshots/pro1.png" height="540px">
-<img src="assets/Screenshots/pro2.png" height="540px">
+<img src="assets/Screenshots/pro1.png" height="450px">
+<img src="assets/Screenshots/pro2.png" height="450px">
 
 # GIFs
 <img src="assets/gifs/pro1.gif" height="450px">
