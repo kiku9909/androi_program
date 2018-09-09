@@ -30,6 +30,12 @@ message should be displayed to user describing the information entered. <br><br>
 
 # GIFs
 <img src="assets/gifs/pro1.gif" height="450px">
+<img src="assets/gifs/pro2(1).gif" height="450px">
+<img src="assets/gifs/pro2(2).gif" height="450px">
+<img src="assets/gifs/pro2(3).gif" height="450px">
+<img src="assets/gifs/pro2(4).gif" height="450px">
+<img src="assets/gifs/pro2(5).gif" height="450px">
+<img src="assets/gifs/pro2(6).gif" height="450px">
 
 <img src="https://media.giphy.com/media/l3q2FnW3yZRJVZH2g/giphy.gif" height="500px">
 
