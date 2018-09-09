@@ -29,7 +29,7 @@ message should be displayed to user describing the information entered. <br><br>
 <table>
 	<tr>
 		<td>
-			<img src="assets/Screenshots/dashboard.png" height="500px">	
+			<img src="assets/Screenshots/dashboard.png" height="450px">	
 		</td>
 		<td>
 			<img src="assets/Screenshots/pro1.png" height="450px">			
@@ -41,13 +41,37 @@ message should be displayed to user describing the information entered. <br><br>
 </table>
 
 # GIFs
-<img src="assets/gifs/pro1.gif" height="450px">
-<img src="assets/gifs/pro2(1).gif" height="450px">
-<img src="assets/gifs/pro2(2).gif" height="450px">
-<img src="assets/gifs/pro2(3).gif" height="450px">
-<img src="assets/gifs/pro2(4).gif" height="450px">
-<img src="assets/gifs/pro2(5).gif" height="450px">
-<img src="assets/gifs/pro2(6).gif" height="450px">
+
+<table>
+	<tr>
+		<td>
+			<img src="assets/gifs/pro1.gif" height="450px">			
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="assets/gifs/pro2(1).gif" height="450px">
+		</td>
+		<td>
+			<img src="assets/gifs/pro2(2).gif" height="450px">
+		</td>
+		<td>
+			<img src="assets/gifs/pro2(3).gif" height="450px">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="assets/gifs/pro2(4).gif" height="450px">
+		</td>
+		<td>
+			<img src="assets/gifs/pro2(5).gif" height="450px">
+		</td>
+		<td>
+			<img src="assets/gifs/pro2(6).gif" height="450px">
+		</td>
+	</tr>
+</table>
+
 
 <img src="https://media.giphy.com/media/l3q2FnW3yZRJVZH2g/giphy.gif" height="500px">
 
