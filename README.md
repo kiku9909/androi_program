@@ -23,12 +23,14 @@ Birth Time<br>
 Form should be followed by a Button with label “Submit”. When user clicks the button, a
 message should be displayed to user describing the information entered. <br><br>
 
-# Screenshots
-<img src="Screenshots/Screenshot_1535806138.png" height="500px">
+# <img scr="assets/svg/screenshot.svg" height="50px"> Screenshots
+<img src="assets/Screenshots/Screenshot_1535806138.png" height="500px">
 
 # GIFs
-<img src="gifs/pro1.gif" height="450px">
+<img src="assets/gifs/pro1.gif" height="450px">
 
 <img src="https://media.giphy.com/media/l3q2FnW3yZRJVZH2g/giphy.gif" height="500px">
 
 
+# all the icons
+<div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
