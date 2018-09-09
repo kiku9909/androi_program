@@ -25,6 +25,8 @@ message should be displayed to user describing the information entered. <br><br>
 
 # Screenshots
 <img src="Screenshots/Screenshot_1535806138.png" height="500px">
+
+# Gifs
 <img src="gifs/pro1.gif" height="450px">
 
 
