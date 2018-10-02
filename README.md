@@ -38,6 +38,11 @@ message should be displayed to user describing the information entered. <br><br>
 			<img src="assets/Screenshots/pro2.png" height="450px">			
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<img src="assets/Screenshots/pro2_details.png" height="450px">			
+		</td>
+	</tr>
 </table>
 
 <img src="https://media.giphy.com/media/l3q2FnW3yZRJVZH2g/giphy.gif" height="500px">
