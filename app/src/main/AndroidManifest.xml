@@ -13,7 +13,7 @@
             android:name=".pro_1"
             android:label="@string/title_activity_pro1"
             android:parentActivityName=".Dashboard"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".Dashboard"
             android:label="@string/title_activity_dashboard"
@@ -24,7 +24,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Pro2"></activity>
+        <activity android:name=".Pro2" />
+        <activity android:name=".pro2_detail"
+            android:parentActivityName=".Pro2"
+            android:theme="@style/AppTheme.NoActionBar"/>
     </application>
 
 </manifest>

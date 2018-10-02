@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bird"
+    android:background="@color/accent"
     android:fitsSystemWindows="false"
     tools:context=".Pro2">
 
@@ -12,7 +12,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        android:paddingBottom="@dimen/LR_margin">
+        android:paddingBottom="@dimen/LR_margin"
+        >
 
         <android.support.constraint.ConstraintLayout
             android:layout_width="match_parent"
@@ -30,6 +31,7 @@
                 android:layout_marginTop="8dp"
                 android:text="Form"
                 android:textSize="40sp"
+                android:textColor="@color/secondary_text"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
@@ -61,7 +63,6 @@
             android:layout_marginLeft="@dimen/LR_margin"
             android:layout_marginRight="@dimen/LR_margin"
             android:layout_marginTop="@dimen/LR_margin"
-            app:cardBackgroundColor="@color/black50"
             app:cardCornerRadius="10dp">
 
             <LinearLayout
@@ -194,6 +195,7 @@
                         android:src="@drawable/ic_if_earth_globe_2785947" />
 
                     <Spinner
+                        android:id="@+id/conutry"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:entries="@array/countries_array"
@@ -214,6 +216,7 @@
                         android:src="@drawable/ic_location_city" />
 
                     <Spinner
+                        android:id="@+id/state"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:entries="@array/india_states"
@@ -241,7 +244,9 @@
                             android:src="@drawable/ic_man" />
 
                         <RadioButton
+                            android:layout_marginRight="20dp"
                             android:id="@+id/man"
+                            android:text="Male"
                             android:layout_width="wrap_content"
                             android:layout_height="match_parent"
                             android:checked="true" />
@@ -252,6 +257,7 @@
                             android:src="@drawable/ic_woman" />
 
                         <RadioButton
+                            android:text="Female"
                             android:id="@+id/women"
                             android:layout_width="wrap_content"
                             android:layout_height="match_parent" />
@@ -312,7 +318,7 @@
                             android:layout_height="wrap_content"
                             android:focusable="false"
                             android:hint="Birth Date"
-                            android:inputType="date" />
+                            android:inputType="text" />
                     </android.support.design.widget.TextInputLayout>
                 </LinearLayout>
 
@@ -341,11 +347,12 @@
                             android:layout_height="wrap_content"
                             android:focusable="false"
                             android:hint="Birth Time"
-                            android:inputType="time" />
+                            android:inputType="text" />
                     </android.support.design.widget.TextInputLayout>
                 </LinearLayout>
 
                 <Button
+                    android:id="@+id/submit_btn"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
