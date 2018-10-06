@@ -13,6 +13,7 @@ public class Dashboard extends AppCompatActivity {
 
     private CardView pro1;
     private CardView pro2;
+    private CardView pro3;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,6 +33,7 @@ public class Dashboard extends AppCompatActivity {
 
         pro1 = (CardView) findViewById(R.id.p1);
         pro2 = (CardView) findViewById(R.id.p2);
+        pro3 = (CardView) findViewById(R.id.p3);
         pro1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -42,6 +44,12 @@ public class Dashboard extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 startActivity(new Intent(Dashboard.this,Pro2.class));
+            }
+        });
+        pro3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(Dashboard.this,Pro3.class));
             }
         });
     }

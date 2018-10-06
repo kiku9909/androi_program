@@ -25,8 +25,12 @@
             </intent-filter>
         </activity>
         <activity android:name=".Pro2" />
-        <activity android:name=".pro2_detail"
+        <activity
+            android:name=".pro2_detail"
             android:parentActivityName=".Pro2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Pro3"
+            android:parentActivityName=".Dashboard"
             android:theme="@style/AppTheme.NoActionBar"/>
     </application>
 
