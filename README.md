@@ -42,6 +42,12 @@ message should be displayed to user describing the information entered. <br><br>
 		<td>
 			<img src="assets/Screenshots/pro2_details.png" height="450px">			
 		</td>
+		<td>
+			<img src="assets/Screenshots/pro3(1).png" height="450px">			
+		</td>
+		<td>
+			<img src="assets/Screenshots/pro3(2).png" height="450px">			
+		</td>
 	</tr>
 </table>
 

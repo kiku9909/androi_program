@@ -76,6 +76,7 @@ public class Pro3 extends AppCompatActivity implements View.OnClickListener {
         switch (view.getId()) {
             case R.id.btn_c:
                 input_box.setText("");
+                ans_tv.setText("");
                 isFirstSet = false;
                 isOprSet = false;
                 num1 = 0;
